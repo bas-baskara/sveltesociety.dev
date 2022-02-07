@@ -2466,5 +2466,16 @@
 		"category": "User Interaction",
 		"tags": ["interactions", "inputs and widgets"],
 		"stars": 26
+	},
+	{
+		"title": "svelte-heroicons-component",
+		"url": "https://github.com/bas-baskara/svelte-heroicons-component",
+		"description": "collection of heroicons in svelte component",
+		"npm": "svelte-heroicons-component",
+		"addedOn": "2022-02-07",
+		"tags": [
+			"fonts and icons"
+		],
+		"stars": 0
 	}
 ]
